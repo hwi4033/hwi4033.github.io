@@ -1,58 +1,31 @@
-# Strata Reloaded
+# HPSTR Jekyll Theme
 
-Simple, clean personal blogging template for Jekyll based on Strata by HTML5 UP.
+* Modern and minimal design.
+* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
+* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
+* Sweet animated menu with support for drop-downs.
+* Optional [Disqus](http://disqus.com) comments and social sharing links.
+* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
+* Simple [custom 404 page](http://mmistakes.github.io/jekyll-theme-hpstr/404.html) to get you started.
+* [Syntax highlighting](http://mmistakes.github.io/jekyll-theme-hpstr/code-highlighting-post/) stylesheet to make your code examples look snazzy
+* [Available in Spanish](https://github.com/cruznick/hpstr-jekyll-theme/tree/es). Thanks [@cruznick](https://github.com/cruznick)!
 
-![Strata Reloaded template screenshot](images/_screenshot.png)
+![HPSTR Theme Preview screenshot](http://mmistakes.github.io/jekyll-theme-hpstr/images/jekyll-theme-hpstr-preview.jpg)
 
-## Features
+---
 
-* Parallax background effect
-* Lightbox gallery
-* Pre-styled components
-* Blog with pagination
-* Configurable footer
-* Optimized for editing in [CloudCannon](http://cloudcannon.com/)
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
-* Webmaster Verification
+## Getting Started
 
-## Develop
+HPSTR takes advantage of SCSS and data files to make customizing easier. This theme requires Jekyll 3.x and will not work with older versions properly.
 
-1. Add your site and author details in `_config.yml`.
-2. Add your Google Analytics key to `_config.yml`.
-3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
+To learn how to install and use this theme check out the [Setup Guide](https://mmistakes.github.io/jekyll-theme-hpstr/theme-setup/) for more information.
 
-## Develop
+---
 
-Urban was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
+## More Jekyll Themes
 
-Install the dependencies with [Bundler](http://bundler.io/):
+Check out my more popular Jekyll themes, available as Ruby gems and 100% GitHub Pages compatible.
 
-~~~bash
-$ bundle install
-~~~
-
-Run `jekyll` commands through Bundler to ensure you're using the right versions:
-
-~~~bash
-$ bundle exec jekyll serve
-~~~
-
-## Editing
-
-Strata Reloaded is already optimized for adding, updating and removing posts and footer elements in [CloudCannon](https://app.cloudcannon.com/).
-
-### Posts
-
-* Add, update or remove a post in the *Posts* collection.
-* Change the defaults when new posts are created in `_posts/_defaults.md`.
-
-### Footer
-
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Footer* section.
-
-## License
-
-Free for personal and commercial use under the CCA 3.0 license. See LICENSE file for additional information and terms of use. This theme was adapted from Strata by HTML5 UP for use with [CloudCannon](http://cloudcannon.com) by [Comfusion LLC](http://comfusionllc.com).
+* [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
+* [So Simple](https://github.com/mmistakes/so-simple-theme)
+* [Basically Basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
