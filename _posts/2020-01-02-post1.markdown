@@ -1,8 +1,8 @@
 ---
 layout: post
-title: post-sample
+title: C# 자료형 (Data Type)
 date: 2020-01-02 19:20:23 +0900
-category: sample
+category: C#
 ---
 # post-sample
 > Hello!
