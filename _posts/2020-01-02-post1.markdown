@@ -1,13 +1,20 @@
 ---
 layout: post
-title: C# 자료형 (Data Type)
-date: 2020-01-02 19:20:23 +0900
+title: 자료형 (Data Type)
+date: 2024-07-01
 category: C#
 ---
-# post-sample
-> Hello!
+자료형이란 데이터를 담는 형식입니다.
 
-This is code
-```ruby
-print 'hello world'
-```
+C# 언어에서 제공해주는 기본 자료형에 대해 알아보겠습니다.
+
+| 자료형의 이름 | 자료형의 크기 | 값을 저장할 수 있는 범위|
+|:---:|:---:|:---|
+| byte | 1 byte | -128 ~ 127 |
+| short | 2 byte | -32,769 ~ 32,767|
+| int | 4 byte | -2,147,483,648 ~ 2,147,483,647 |
+| float | 4 byte | |
+| double | 8 byte | |
+| char | | |
+| string | | |
+| bool | | |
